@@ -7,6 +7,42 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+# University of Amsterdam [2013-Present]
+ 
+## Master
+Introduction to Computational Science – Master Computational Science, UvA (2020-2024) 
+
+Agent-Based Modelling – Master Computational Science, UvA (2017 -2019); 
+
+Complex System Simulation – Master Computational Science, UvA (2013 – 2016 )
+
+
+## Bachelor
+Introduction Computational Science – BSc UvA (2013)
+
+Modelling Your World – Amsterdam University College (2013 – 2016)
+
+Introduction to Intelligent Agents – NTU (2013); 
+
+## Other & Guest
+NTU-Warwick Complexity Winter School, NTU (2015 – 2018)
+
+Complexity can it be Simplified, UvA (2014-2015)
+
+Computational Social Science, UvA (2024)
+ 
+
+# Nanyang Technological University [2009-2013]
+ 
+## Bachelor
+
+Introduction to Computational Thinking (2011, 2012)
+
+Introduction to Intelligent Agents (2010, 2011, 2012)
+
+Software Systems and Models (2009, 2010)
+
+Operating Systems (2010, 2011, 2012)
+
+

@@ -1,80 +1,48 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Reasoning about the Ramifications of Data Integration for Multi-scale Modeling
+description: 
+img: assets/img/ramifications.jpg
 importance: 3
-category: fun
+category: ongoing
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Computational modelling and simulation provide a unique way to reason about the natural world. Often physical
+and social systems are abstracted into mathematical equations that describe processes at multiple spatial and
+temporal scales [Hoekstra et al 2014]. The advent of multi-scale modelling has enabled scientists to study holistic systems, where processes at the micro-scale are coupled to macro-scale processes by mapping inputs of one model the outputs of another. While progress has been made in the natural sciences there are still hard limits set by the computational requirements of these systems (e.g., blood flow) and currently, these techniques are not common place in computational social science (or computational psychology).
+Over the last two decades the world has seen has seen an explosive growth in the amount of data that is recorded
+about societies [Ball 2012]. This has been followed with a growth in the field of computational social science and
+computational models of socio-economic systems. These new data sets provide, for the first time, a way to
+capture, abstract and validate models regarding individual human behavior and the associated collective behavior
+(e.g., mobility [KP 3], social systems [KP 4]). However, the scale of these models is typically limited by the
+computational demands and issues related to sensitivity (and privacy) of the associated datasets. Combining
+models that rely on multiple data sources at multiple scale may lead to unpredictable ramifications in terms of
+privacy, uncertainty and subsequent validity.
+In this proposal we plan to develop algorithms that provide ways to reason about (specifically but not solely) socio-health systems. By abstracting multi-scale models to data flow graphs [Moreau &amp; Groth 2013; Groth et al 2009]we aim to provide a novel methodology and associated methods to help modelers reason about large-scale holistic systems in a way that makes both the challenges of privacy and uncertainty transparent. The vision is one in which models are considered as &quot;black box&quot; data generator (nodes) in a data flow graph. In general, the nodes in the data
+flow graph can be models that generate output data, or they can simply be real world data sets (from longitudinal
+studies, or demographic data - e.g., CBS). The edges then describe flows from data to models, and prescribe
+guarantees on the data, in terms of scale (spatial, temporal), format, privacy constraints and uncertainty and error.
+By examining the data flow graph and data descriptors, this project will look at ways to rapidly characterize both
+model generated data and real data in terms of enumerated sets of ramifications. Moreover, given the
+computational cost of running large-scale models, the data flow graphs provide an important abstraction that can
+allow modelers to reason about these potential ramifications without the cost of execution.
+Research Question
+The core research question is:
+- To what extent can we use data flow graphs be used to reason the ramifications of large multi-scale
+models, and is it possible to develop ways to capture privacy and uncertainty into the data flow
+framework.
+From a computational science perspective this research will address fundamental modelling questions in an area
+that still has significant challenges. While model abstraction formalisms have been developed before (e.g., DEVS
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+[Concepcion &amp; Zeigler 1988]) there applicability to the socio-economic (health) domain has been limited by their
+inability to deal with privacy and uncertainty. The key challenges will be how to conceptualize classical multi-scale
+modelling challenges (e.g., uncertainty quantification, sensitivity) into the new data flow paradigm. Finally, the
+data flow graphs provide a natural way to develop executable models through translation to system dynamic
+descriptions [Forrester 1994]. The research will explore techniques for mapping data flow graphs to system
+dynamics models.
+From a data provenance and computational workflow perspective, this moves beyond just capturing and querying
+provenance (i.e. the data flow graph) to sophisticated analytics on the graph. In particular, this provides an
+important environment for examining heterogeneous data flow graphs stemming from multiple applications and
+domains. This project also aims to experiment with the relationship between past executions and prospective
+executions. Lastly, the relationship between data description and data flow graphs is under explored and a
+trajectory for this work.
