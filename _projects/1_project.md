@@ -1,10 +1,10 @@
 ---
 layout: page
-title: EMERGENT PHENOMENA IN SOCIETY: POLARIZATION, SEGRETATION, INEQUALITY
-description: a project with a background image
+title: RPAPSI
+description: EMERGENT PHENOMENA IN SOCIETY - POLARIZATION, SEGRETATION, INEQUALITY
 img: assets/img/rpapsi.jpg
 importance: 1
-category: Ongoing
+category: ongoing
 related_publications: true
 ---
 
@@ -12,4 +12,4 @@ The Research Priority Area, Emergent Phenomena in Society: Polarisation, Segrega
 
 For more information, visit the project <a href="https://www.d-iep.org/emergentphenomenainsociety">site</a>.
 
-## We are currently hiring postdocs - see <a href="https://www.d-iep.org/postdoc-fellowship">here</a>
+### We are currently hiring postdocs - see <a href="https://www.d-iep.org/postdoc-fellowship">here</a>

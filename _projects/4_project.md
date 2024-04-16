@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reasoning about the Ramifications of Data Integration for Multi-scale Modeling
+title: Data Sensitivity
 description: 
 img: assets/img/ramifications.jpg
 importance: 3

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dynaslum
+title: DynaSlum
 description: Computational modelling and remote sensing to understand slum dynamics
 img: assets/img/dynaslum.jpg
 importance: 4
