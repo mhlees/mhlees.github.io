@@ -538,6 +538,11 @@ footer.sticky-bottom {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
+  h1 {
+    color: var(--global-theme-color);
+    font-size: 5rem;
+  }
+}
 }
 
 .post-list {
@@ -659,6 +664,7 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
 
+  
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
