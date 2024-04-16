@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://ivi.uva.nl/'>Institute for Informatics</a>, <a href='https://ias.uva.nl/'>Institute for Advanced Study</a>  
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mhlees.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>L6.16 Lab 42</p>
+    <p>Science Park 900</p>
+    <p>Amsterdam 1098 XH</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
