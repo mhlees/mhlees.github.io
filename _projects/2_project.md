@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Urban Mental Health 
+title: Urban Mental Health
 description: Developing Computational Models to understand the spread of addiction
 img: assets/img/umh.jpg
 importance: 2

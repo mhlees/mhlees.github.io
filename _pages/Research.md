@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: 
+description:
 nav: true
 nav_order: 6
 ---
@@ -25,7 +25,7 @@ In order to address this fundamental challenge my research aims to develop novel
 - Jurjen Helmus (2021)
 - Philip Rutten (2021)
 - Valentin Melnikov (2021)
-- Eric Dignum  (2023)
+- Eric Dignum (2023)
 - Maarten van den Ende (2024)
 - James Nevin (2024)
 

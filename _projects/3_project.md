@@ -7,4 +7,3 @@ redirect: www.compass-project.nl
 importance: 3
 category: ongoing
 ---
-

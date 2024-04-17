@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Sensitivity
-description: 
+description: Ramifications of data sensitivity to Network Models
 img: assets/img/ramifications.jpg
 importance: 3
 category: ongoing
