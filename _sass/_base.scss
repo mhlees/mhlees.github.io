@@ -150,10 +150,6 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 }
 
-// Post title color change
-//.post-title {
-//}
-
 // Caption
 
 .caption {
@@ -542,7 +538,7 @@ footer.sticky-bottom {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
-  color: var(--global-theme-color);
+  //color: var(--global-theme-color);
 } 
 
 .post-list {
@@ -664,7 +660,6 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
 
-  
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
@@ -711,8 +706,8 @@ footer.sticky-bottom {
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
+          margin-bottom: 0.5rem;
+          width: 100%;
 
           a {
             color: white;
@@ -888,11 +883,11 @@ html.transition *:after {
     margin-bottom: 0;
   }
   
-  .post-title {
-    h1 {
-      color: var(--global-theme-color);
-    }
-  }
+  //.post-title {
+  //  h1 {
+  //    color: var(--global-theme-color);
+  //  }
+  //}
 
   .post-tags {
     color: var(--global-text-color-light);
