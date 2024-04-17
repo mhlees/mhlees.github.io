@@ -538,8 +538,7 @@ footer.sticky-bottom {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
-  //color: var(--global-theme-color);
-} 
+}
 
 .post-list {
   margin: 0;
@@ -881,12 +880,6 @@ html.transition *:after {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
     margin-bottom: 0;
-  }
-  
-  .post-title {
-    h1 {
-      color: var(--global-theme-color);
-    }
   }
 
   .post-tags {
