@@ -883,7 +883,9 @@ html.transition *:after {
   }
 
   .post-title {
+    h1 {
     color: var(--global-theme-color);
+    }
   }
 
   .post-tags {
