@@ -150,6 +150,10 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 }
 
+// Post title color change
+//.post-title {
+//}
+
 // Caption
 
 .caption {
@@ -538,7 +542,8 @@ footer.sticky-bottom {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
-}
+  color: var(--global-theme-color);
+} 
 
 .post-list {
   margin: 0;
@@ -659,6 +664,7 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
 
+  
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
@@ -705,8 +711,8 @@ footer.sticky-bottom {
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          margin-bottom: 0.5rem;
-          width: 100%;
+          padding-left: 1rem;
+          padding-right: 1rem;
 
           a {
             color: white;
@@ -880,6 +886,12 @@ html.transition *:after {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
     margin-bottom: 0;
+  }
+  
+  .post-title {
+    h1 {
+      color: var(--global-theme-color);
+    }
   }
 
   .post-tags {
