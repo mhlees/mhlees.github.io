@@ -151,12 +151,8 @@ ul.task-list input[type="checkbox"] {
 }
 
 // Post title color change
-.post-title {
-  h1 {
-    color: var(--global-theme-color);
-    font-size: 5rem;
-  }
-}
+//.post-title {
+//}
 
 // Caption
 
@@ -546,10 +542,7 @@ footer.sticky-bottom {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
-  h1 {
-    color: var(--global-theme-color);
-    font-size: 5rem;
-  }
+  color: var(--global-theme-color);
 } 
 
 .post-list {
@@ -893,6 +886,12 @@ html.transition *:after {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
     margin-bottom: 0;
+  }
+  
+  .post-title {
+    h1 {
+      color: var(--global-theme-color);
+    }
   }
 
   .post-tags {
