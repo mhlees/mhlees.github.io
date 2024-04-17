@@ -7,7 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-
 ## University of Amsterdam
 
 ### Master
@@ -20,7 +19,7 @@ nav_order: 6
 
 - Introduction Computational Science – BSc UvA (2013)
 - Modelling Your World – Amsterdam University College (2013 – 2016)
-- Introduction to Intelligent Agents – NTU (2013); 
+- Introduction to Intelligent Agents – NTU (2013);
 
 ### Other & Guest
 
