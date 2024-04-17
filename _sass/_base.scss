@@ -882,6 +882,10 @@ html.transition *:after {
     margin-bottom: 0;
   }
 
+  .post-title {
+    color: var(--global-theme-color);
+  }
+
   .post-tags {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
