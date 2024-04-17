@@ -150,6 +150,14 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 }
 
+// Post title color change
+.post-title {
+  h1 {
+    color: var(--global-theme-color);
+    font-size: 5rem;
+  }
+}
+
 // Caption
 
 .caption {
