@@ -10,8 +10,6 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<div class="publications">
-<h1>Publications </h1>
 
 {% bibliography %}
 
