@@ -2,7 +2,7 @@
 layout: page
 title: Polder
 description: Policy Decision-support and Evidence-based Reasoning
-img: assets/img/polder.jpg
+img: assets/img/polder.png
 importance: 1
 category: ongoing
 ---

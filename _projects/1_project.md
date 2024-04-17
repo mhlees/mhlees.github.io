@@ -2,7 +2,7 @@
 layout: page
 title: RPAPSI
 description: EMERGENT PHENOMENA IN SOCIETY - POLARIZATION, SEGRETATION, INEQUALITY
-img: assets/img/rpapsi.jpg
+img: assets/img/rpapsi.png
 importance: 1
 category: ongoing
 related_publications: true
