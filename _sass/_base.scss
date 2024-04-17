@@ -881,13 +881,13 @@ html.transition *:after {
     font-size: 0.875rem;
     margin-bottom: 0;
   }
-
-  .post-title {
-    h1 {
-    color: var(--global-theme-color);
+  .post-header{
+    .post-title {
+      h1 {
+      color: var(--global-theme-color);
+      }
     }
   }
-
   .post-tags {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
