@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://ivi.uva.nl/'>Institute for Informatics</a>, <a href='https://ias.uva.nl/'>Institute for Advanced Study</a>
 
