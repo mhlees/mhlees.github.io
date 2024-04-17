@@ -538,8 +538,10 @@ footer.sticky-bottom {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
-  color: var(--global-theme-color);
-
+  
+  h1 {
+    color: var(--global-theme-color);
+  }
 }
 
 .post-list {
