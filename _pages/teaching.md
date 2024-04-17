@@ -12,14 +12,14 @@ nav_order: 6
 ### Master
 
 - Introduction to Computational Science – Master Computational Science, UvA (2020-2024)
-- Agent-Based Modelling – Master Computational Science, UvA (2017 -2019);
-- Complex System Simulation – Master Computational Science, UvA (2013 – 2016 )
+- Agent-Based Modelling – Master Computational Science, UvA (2017 -2019)
+- Complex System Simulation – Master Computational Science, UvA (2013 – 2016)
 
 ### Bachelor
 
 - Introduction Computational Science – BSc UvA (2013)
 - Modelling Your World – Amsterdam University College (2013 – 2016)
-- Introduction to Intelligent Agents – NTU (2013);
+- Introduction to Intelligent Agents – NTU (2013)
 
 ### Other & Guest
 
