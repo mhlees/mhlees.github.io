@@ -16,6 +16,11 @@ My research is driven by scientific challenges in the area of social-urban compl
 
 In order to address this fundamental challenge my research aims to develop novel methods in agent-based modelling (mod- elling methodology) and discrete-event simulation (computation execution). This includes methods for semi-automatic model construction, modelling formalisms that are able to capture human behaviour and new ways to probe and measure social-urban systems to be able to validate and calibrate such models. My application areas include the growth of infor- mal settlements, the process of school segregation through school choice, the dynamics of human crowds, and the social dynamics of EV charging behaviour.
 
+<div class="publications">
+<h1>Research </h1>
+</div>
+
+
 ## PhD students:
 - Hu Nan (2014) [thesis]
 - Vaisagh Viswanathan Thattamparambil (2015) [thesis]
