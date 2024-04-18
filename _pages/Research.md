@@ -15,14 +15,14 @@ In order to address this fundamental challenge my research aims to develop novel
 
 ## PhD students
 
-- [Hu Nan](https://www.linkedin.com/in/nan-hu-a164b517/?originalSubdomain=sg) [thesis](https://hdl.handle.net/10356/61133)
-- [Zhang Tianyou](https://www.linkedin.com/in/zhangty/?originalSubdomain=sg) [theis](https://hdl.handle.net/10356/61718)
-- [Vaisagh Viswanathan Thattamparambil](https://www.linkedin.com/in/vaisaghvt/?originalSubdomain=sg) [thesis](https://hdl.handle.net/10356/62668)
-- [Xu Yadong](https://www.linkedin.com/in/yadong-xu/?originalSubdomain=sg) [theis](https://hdl.handle.net/10356/62668)
-- [Debraj Roy](https://www.uva.nl/en/profile/r/o/d.roy/d.roy.html) [thesis](https://hdl.handle.net/10356/72386)
-- [Jurjen Helmus](https://www.hva.nl/profiel/h/e/j.r.helmus/j.r.helmus.html) [thesis](https://hdl.handle.net/11245.1/64fbf433-197c-46ea-a150-ce3575211a9a)
-- [Valentin Melnikov](https://www.linkedin.com/in/valmelnikov/?locale=en_US) [thesis] (https://hdl.handle.net/11245.1/d2ad9663-b9a4-4903-b1ea-ace8819394a8)
-- [Philip Rutten] (https://www.bigstatistics.nl/philip-rutten/)
+- [Hu Nan](https://www.linkedin.com/in/nan-hu-a164b517/?originalSubdomain=sg) - ([thesis](https://hdl.handle.net/10356/61133))
+- [Zhang Tianyou](https://www.linkedin.com/in/zhangty/?originalSubdomain=sg) - ([theis](https://hdl.handle.net/10356/61718))
+- [Vaisagh Viswanathan Thattamparambil](https://www.linkedin.com/in/vaisaghvt/?originalSubdomain=sg) - ([thesis](https://hdl.handle.net/10356/62668))
+- [Xu Yadong](https://www.linkedin.com/in/yadong-xu/?originalSubdomain=sg) - ([theis](https://hdl.handle.net/10356/62668))
+- [Debraj Roy](https://www.uva.nl/en/profile/r/o/d.roy/d.roy.html) - ([thesis](https://hdl.handle.net/10356/72386))
+- [Jurjen Helmus](https://www.hva.nl/profiel/h/e/j.r.helmus/j.r.helmus.html) - ([thesis](https://hdl.handle.net/11245.1/64fbf433-197c-46ea-a150-ce3575211a9a))
+- [Valentin Melnikov](https://www.linkedin.com/in/valmelnikov/?locale=en_US) - ([thesis](https://hdl.handle.net/11245.1/d2ad9663-b9a4-4903-b1ea-ace8819394a8))
+- [Philip Rutten](https://www.bigstatistics.nl/philip-rutten/)
 - Eric Dignum
 - [Maarten van den Ende](https://www.uva.nl/en/profile/e/n/m.w.j.vandenende/m.w.j.van-den-ende.html)
 - [James Nevin](https://www.linkedin.com/in/james-nevin-4b844b153/?originalSubdomain=nl)
