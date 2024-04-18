@@ -1,7 +1,7 @@
 ---
 layout: page
-title: RPAPSI
-description: EMERGENT PHENOMENA IN SOCIETY - POLARIZATION, SEGRETATION, INEQUALITY
+title: RPA PSI
+description: Emergent phenomena in society - polarization, segretation, inequality
 img: assets/img/rpapsi.png
 importance: 1
 category: ongoing

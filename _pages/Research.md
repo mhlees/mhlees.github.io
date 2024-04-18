@@ -15,17 +15,26 @@ In order to address this fundamental challenge my research aims to develop novel
 
 ## PhD students
 
-- Hu Nan (2014) [thesis]
-- Vaisagh Viswanathan Thattamparambil (2015) [thesis]
-- Xu Yadong (2016)
-- Debraj Roy (2017)
-- Harsha Krishna (2018)
-- Jurjen Helmus (2021)
-- Philip Rutten (2021)
-- Valentin Melnikov (2021)
-- Eric Dignum (2023)
-- Maarten van den Ende (2024)
-- James Nevin (2024)
+- [Hu Nan](https://www.linkedin.com/in/nan-hu-a164b517/?originalSubdomain=sg) [thesis](https://hdl.handle.net/10356/61133)
+- [Zhang Tianyou](https://www.linkedin.com/in/zhangty/?originalSubdomain=sg) [theis](https://hdl.handle.net/10356/61718)
+- [Vaisagh Viswanathan Thattamparambil](https://www.linkedin.com/in/vaisaghvt/?originalSubdomain=sg) [thesis](https://hdl.handle.net/10356/62668)
+- [Xu Yadong](https://www.linkedin.com/in/yadong-xu/?originalSubdomain=sg) [theis](https://hdl.handle.net/10356/62668)
+- [Debraj Roy](https://www.uva.nl/en/profile/r/o/d.roy/d.roy.html) [thesis](https://hdl.handle.net/10356/72386)
+- [Jurjen Helmus](https://www.hva.nl/profiel/h/e/j.r.helmus/j.r.helmus.html) [thesis](https://hdl.handle.net/11245.1/64fbf433-197c-46ea-a150-ce3575211a9a)
+- [Valentin Melnikov](https://www.linkedin.com/in/valmelnikov/?locale=en_US) [thesis] (https://hdl.handle.net/11245.1/d2ad9663-b9a4-4903-b1ea-ace8819394a8)
+- [Philip Rutten] (https://www.bigstatistics.nl/philip-rutten/)
+- Eric Dignum
+- [Maarten van den Ende](https://www.uva.nl/en/profile/e/n/m.w.j.vandenende/m.w.j.van-den-ende.html)
+- [James Nevin](https://www.linkedin.com/in/james-nevin-4b844b153/?originalSubdomain=nl)
+- Vlad Karbovskii
+- [Casper van Elteren](https://cvanelteren.github.io/)
+
+## Postdocs
+
+- [Heiko Aydt](https://fcl.ethz.ch/people/Module-Lead/HeikoAydt.html) (2011-2012)
+- [Debraj Roy](https://www.uva.nl/en/profile/r/o/d.roy/d.roy.html)(2017-2019)
+- [Rafiazka Hillman](https://www.uva.nl/profiel/h/i/r.m.hilman/r.m.hilman.html) (2023-2025)
+- Tanzhe Tang (2023-2026)
 
 ## Service
 
