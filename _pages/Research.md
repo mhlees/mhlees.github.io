@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-<span style=" color: var(--global-theme-color);"><h2>Research Vision</h2></span>
-
 ## Research vision
 
 My research is driven by scientific challenges in the area of social-urban complex systems. Complex Systems span a wide range of different application areas, but exhibit common systemic behaviours that emerge through the interactions of simple elements. This systemic behaviour can only be understood by holistic analysis that necessitates viewing the system as a dynamic collective of individuals. Traditional means of quantitative analysis are known to be insufficient to understand such systems. Through the complex systems approach social systems can be viewed as collections of autonomous agents that operate seemingly simple rules, but through their interaction may lead to unexpected or undesirable systemic effects. Computational models are one of the best means of analysis for reasoning about, and understanding, such emergent phe- nomena at scale. One of the most fundamental challenges in this area is how to map social technical and natural phenomena into scalable and predictive computational models that can help develop and test interventions.
