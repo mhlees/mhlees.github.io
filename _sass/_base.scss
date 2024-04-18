@@ -19,6 +19,14 @@ strong {
   color: var(--global-text-color);
 }
 
+.post {
+  .post-header{
+      h1.post-title {
+      color:  var(--global-theme-color);
+      }
+  }
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
