@@ -538,6 +538,7 @@ footer.sticky-bottom {
   }
 }
 
+
 .post-title {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
@@ -889,6 +890,11 @@ html.transition *:after {
     font-size: 0.875rem;
     margin-bottom: 0;
   }
+
+  h1.post-title {
+    color: var(--global-theme-color);
+  }
+  
   .post-header{
     .post-title {
       h1 {
