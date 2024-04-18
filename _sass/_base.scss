@@ -19,21 +19,14 @@ strong {
   color: var(--global-text-color);
 }
 
-.post {
-  .post-header{
-      h1.post-title {
+.post .post-header h1{
       color:  var(--global-theme-color);
-      }
-  }
 }
 
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
-h1.post-title {
-  color: var(--global-theme-color);
-}
 
 table {
   td,
@@ -551,10 +544,6 @@ footer.sticky-bottom {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
-  
-  h1 {
-    color: var(--global-theme-color);
-  }
 }
 
 .post-list {
@@ -899,17 +888,6 @@ html.transition *:after {
     margin-bottom: 0;
   }
 
-  h1.post-title {
-    color: var(--global-theme-color);
-  }
-  
-  .post-header{
-    .post-title {
-      h1 {
-      color: var(--global-theme-color);
-      }
-    }
-  }
   .post-tags {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
