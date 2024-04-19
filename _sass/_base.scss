@@ -206,8 +206,9 @@ ul.task-list input[type="checkbox"] {
     font-family: monospace;
 
     p {
-      display: inline-block;
+      display: inline list-item;
       margin: 0;
+      list-style-type: none;
     }
   }
 }
