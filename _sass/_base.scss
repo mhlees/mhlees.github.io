@@ -732,6 +732,9 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+        color: var(--global-theme-color);
+        filter: brightness(1.2);
+        opacity: 0.6;
       }
 
       .author {
