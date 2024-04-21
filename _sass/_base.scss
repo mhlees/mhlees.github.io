@@ -27,6 +27,16 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+.logo {
+  float: right;
+}
+
+.header::after {
+    display: block;
+    clear: both;
+    content: "";
+}
+
 
 table {
   td,

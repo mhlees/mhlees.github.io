@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://ivi.uva.nl/'>Institute for Informatics</a>, <a href='https://ias.uva.nl/'>Institute for Advanced Study</a>
+subtitle: <a href='https://uva.computationalscience.nl/'>Commputational Science Lab</a> -- <a href='https://ivi.uva.nl/'>Institute for Informatics</a> -- <a href='https://ias.uva.nl/'>Institute for Advanced Study</a>
 
 profile:
   align: right
