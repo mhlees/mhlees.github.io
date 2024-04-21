@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 description:
 nav: true
-nav_order: 6
+nav_order: 1
 ---
 
 ## Research vision

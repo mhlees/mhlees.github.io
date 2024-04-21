@@ -2,12 +2,14 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: A list of teaching activities, course descriptions can be found online.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 ## University of Amsterdam
+
+I've developed and taught a number of new courses in Amsterdam. This includes lectures in the [Master Computational Science](https://www.uva.nl/shared-content/programmas/en/masters/computational-science/computational-science.html), at the [Amsterdam University College](https://www.auc.nl/) and in the [Bachelor Informatica](https://www.uva.nl/programmas/bachelors/informatica/informatica.html). From 2015-2020 I was the programme director of the [Master Computational Science](https://www.uva.nl/shared-content/programmas/en/masters/computational-science/computational-science.html).
 
 ### Master
 
@@ -17,21 +19,23 @@ nav_order: 6
 
 ### Bachelor
 
-- Introduction Computational Science – BSc UvA (2013)
 - Modelling Your World – Amsterdam University College (2013 – 2016)
-- Introduction to Intelligent Agents – NTU (2013)
+- Introduction Computational Science – BSc UvA (2013)
 
 ### Other & Guest
 
+- Computational Social Science, UvA (2024)
 - NTU-Warwick Complexity Winter School, NTU (2015 – 2018)
 - Complexity can it be Simplified, UvA (2014-2015)
-- Computational Social Science, UvA (2024)
 
 ## Nanyang Technological University
+
+From 2009-2013 I was teaching at the [School of Computer Engineering](https://www.ntu.edu.sg/scse) at NTU. I was also part of the [blue ribbon commision](https://www.ntu.edu.sg/docs/default-source/corporate-ntu/annual-reports/2010-ar10-20110221---ar-(without-financial).pdf?sfvrsn=5b474ad1_6) to redesign the bachelor curriculum of computer science and computer engineering. 
 
 ### Bachelor
 
 - Introduction to Computational Thinking (2011, 2012)
-- Introduction to Intelligent Agents (2010, 2011, 2012)
-- Software Systems and Models (2009, 2010)
+- Introduction to Intelligent Agents (2010, 2011, 2012,2013)
 - Operating Systems (2010, 2011, 2012)
+- Software Systems and Models (2009, 2010)
+
