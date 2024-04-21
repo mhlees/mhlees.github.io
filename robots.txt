@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.mhlees.com/sitemap.xml
+Sitemap: mhlees.github.io/sitemap.xml
