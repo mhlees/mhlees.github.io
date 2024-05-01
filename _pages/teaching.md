@@ -29,7 +29,7 @@ I've developed and taught a number of new courses in Amsterdam. This includes le
 - Complexity can it be Simplified, UvA (2014-2015)
 
 ## Nanyang Technological University
-
+ 
 From 2009-2013 I was teaching at the [School of Computer Engineering](https://www.ntu.edu.sg/scse) at NTU. I was also part of the [blue ribbon commision](https://www.ntu.edu.sg/docs/default-source/corporate-ntu/annual-reports/2010-ar10-20110221---ar-(without-financial).pdf?sfvrsn=5b474ad1_6) to redesign the bachelor curriculum of computer science and computer engineering. 
 
 ### Bachelor
