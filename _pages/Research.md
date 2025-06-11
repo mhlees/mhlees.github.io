@@ -29,7 +29,7 @@ In order to address this fundamental challenge my research aims to develop novel
 - [Casper van Elteren](https://cvanelteren.github.io/)([thesis](https://hdl.handle.net/11245.1/85145dd0-74d0-4dd5-9259-18f23a3ef99f))
 - Vlad Karbovskii
 - [Nik Brouw](https://uva.computationalscience.nl/people/)
-- [Kyuri Park](https://kyurip.github.io/
+- [Kyuri Park](https://kyurip.github.io/)
 - [Cillian Hourican](https://www.cillianhourican.com/)
 - [Shakuntala (Nuni) Ramnath](https://nl.linkedin.com/in/shakuntalaramnath)
 
