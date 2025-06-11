@@ -22,12 +22,16 @@ In order to address this fundamental challenge my research aims to develop novel
 - [Debraj Roy](https://www.uva.nl/en/profile/r/o/d.roy/d.roy.html) - ([thesis](https://hdl.handle.net/10356/72386))
 - [Jurjen Helmus](https://www.hva.nl/profiel/h/e/j.r.helmus/j.r.helmus.html) - ([thesis](https://hdl.handle.net/11245.1/64fbf433-197c-46ea-a150-ce3575211a9a))
 - [Valentin Melnikov](https://www.linkedin.com/in/valmelnikov/?locale=en_US) - ([thesis](https://hdl.handle.net/11245.1/d2ad9663-b9a4-4903-b1ea-ace8819394a8))
-- [Philip Rutten](https://www.bigstatistics.nl/philip-rutten/)
-- Eric Dignum
-- [Maarten van den Ende](https://www.uva.nl/en/profile/e/n/m.w.j.vandenende/m.w.j.van-den-ende.html)
-- [James Nevin](https://www.linkedin.com/in/james-nevin-4b844b153/?originalSubdomain=nl)
+- [Philip Rutten](https://www.bigstatistics.nl/philip-rutten/) ([thesis](https://hdl.handle.net/11245.1/deb5e8eb-7536-487f-8152-f59c7ae30027))
+- [Eric Dignum](https://ericdignum.github.io/) ([thesis](https://hdl.handle.net/11245.1/069cc91c-4256-4aaa-b4b1-fa7f6142c0cd))
+- [Maarten van den Ende](https://www.uva.nl/en/profile/e/n/m.w.j.vandenende/m.w.j.van-den-ende.html)([thesis](https://hdl.handle.net/11245.1/59b50e19-aaa8-413a-88ca-bc67a8674da3))
+- [James Nevin](https://www.linkedin.com/in/james-nevin-4b844b153/?originalSubdomain=nl) ([thesis](https://hdl.handle.net/11245.1/d3da6b23-4198-40f6-bfc1-278477bdb0a5))
+- [Casper van Elteren](https://cvanelteren.github.io/)([thesis](https://hdl.handle.net/11245.1/85145dd0-74d0-4dd5-9259-18f23a3ef99f))
 - Vlad Karbovskii
-- [Casper van Elteren](https://cvanelteren.github.io/)
+- [Nik Brouw](https://uva.computationalscience.nl/people/)
+- [Kyuri Park](https://kyurip.github.io/
+- [Cillian Hourican](https://www.cillianhourican.com/)
+- [Shakuntala (Nuni) Ramnath](https://nl.linkedin.com/in/shakuntalaramnath)
 
 ## Postdocs
 
